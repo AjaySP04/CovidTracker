@@ -20,7 +20,6 @@ export default {
   methods: {
     onChange() {
       const country = this.countries.find((item) => item.ID === this.selected);
-      console.log(country);
       this.$emit('get-country', country);
     },
   },
