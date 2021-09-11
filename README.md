@@ -1,4 +1,6 @@
-# vue-covid-tracker
+# Covid-19 Tracker
+
+*Preview*: https://app.netlify.com/sites/inspiring-tereshkova-bad57d/overview
 
 ## Project setup
 ```
