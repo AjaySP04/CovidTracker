@@ -1,7 +1,10 @@
 <template>
     <div class="text-center">
         <h2 class="text-3xl font-bold">{{text}}</h2>
-        <div class="text-2xl mt4 mb-10">
+        <div class="text-2xl mt-4 mb-10">
+          <span class="bg-blue-100 text-gray-700 text-xl mt-2 mb-2 p-2 rounded">
+            <em>Last Updated:</em>
+          </span>
             {{timestamp}}
         </div>
     </div>
