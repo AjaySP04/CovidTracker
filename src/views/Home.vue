@@ -65,7 +65,6 @@ export default {
   },
   async created() {
     const data = await this.fetchCovidData();
-    console.log(data);
     this.dataDate = data.Date;
     this.stats = data.Global;
     this.countries = data.Countries;
