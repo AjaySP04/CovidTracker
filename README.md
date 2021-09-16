@@ -1,6 +1,6 @@
 # Covid-19 Tracker
 
-*Preview*: https://app.netlify.com/sites/inspiring-tereshkova-bad57d/overview
+*Preview*: https://inspiring-tereshkova-bad57d.netlify.app/
 
 ## Project setup
 ```
